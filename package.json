@@ -2,6 +2,11 @@
   "author": "Etiene Muniz",
   "description": "A project that does something awesome",
   "name": "fcc-learn-npm-package-json",
+  "keywords": [
+    "freecodecamp",
+    "programer",
+    "learning"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
