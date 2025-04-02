@@ -2,6 +2,7 @@
   "author": "Etiene Muniz",
   "description": "A project that does something awesome",
   "name": "fcc-learn-npm-package-json",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "programer",
